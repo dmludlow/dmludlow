@@ -1,7 +1,7 @@
 # Hi, I’m Daniel 👋
 
 🚀 **Aerospace Engineering @ UCLA** (B.S. 2026 → M.S. 2027)  
-🎯 Focus: **Controls, Guidance, Navigation & Control (GNC), Attitude Determination & Control (ADCS)**  
+🎯 Focus: **Guidance, Navigation & Control (GNC), Attitude Determination & Control (ADCS)**  
 
 ---
 
